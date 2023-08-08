@@ -1,0 +1,8 @@
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\bin\Debug\Livro.exe.config
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\bin\Debug\Livro.exe
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\bin\Debug\Livro.pdb
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.AssemblyReference.cache
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.CoreCompileInputs.cache
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.exe
+C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.pdb
