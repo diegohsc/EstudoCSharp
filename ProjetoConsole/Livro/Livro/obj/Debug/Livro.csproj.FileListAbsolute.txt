@@ -6,3 +6,11 @@ C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Liv
 C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.CoreCompileInputs.cache
 C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.exe
 C:\Users\diego.carvalho\Pictures\cSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.pdb
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\bin\Debug\Livro.exe.config
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\bin\Debug\Livro.exe
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\bin\Debug\Livro.pdb
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.AssemblyReference.cache
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.SuggestedBindingRedirects.cache
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.csproj.CoreCompileInputs.cache
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.exe
+C:\Users\diego\OneDrive\Documentos\Projetos\CSharp\EstudosLivro\EstudoCSharp\ProjetoConsole\Livro\Livro\obj\Debug\Livro.pdb

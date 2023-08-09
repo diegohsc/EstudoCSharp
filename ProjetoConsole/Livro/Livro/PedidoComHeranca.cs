@@ -12,6 +12,12 @@ namespace Livro
         {
 
             InteracaoUsuario user = new InteracaoUsuario();
+            user.SolicitarDigitacao();
+            user.MostrarDigitacao();
+
+            string msg = user.Mensagem;
+
+            Console.WriteLine(msg);
 
 
         }
